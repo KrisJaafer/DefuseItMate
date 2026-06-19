@@ -33,4 +33,4 @@ Les noms de fichiers ne changent jamais. Seul le tag (ex: `V1.2`) change à chaq
 ## Version actuelle
 
 - **Version :** v1.2
-- **Date de mise à jour :** 18/06/2026
+- **Date de mise à jour :** 20/06/2026
